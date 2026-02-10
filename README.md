@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://p4.wallpaperbetter.com/wallpaper/314/92/947/computer-engineering-matrix-science-wallpaper-preview.jpg" alt="cover" width="100%" />
+  <img src="https://i.imgur.com/KpVRzgD.jpeg" alt="cover" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm yasmine hammami</h1>
